@@ -2,6 +2,12 @@
      
      
     {
+        "device_id": "a3a660285b7862d4",
+        "key": "a3a660285b7862d4",
+        "expirydate": "15-06-2035",
+        "Allowoffline": true
+    },   
+    {
         "device_id": "240ead47409ce893",
         "key": "240ead47409ce893",
         "expirydate": "15-06-2035",
